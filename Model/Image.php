@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: rusko
- * Date: 19.03.15
- * Time: 13:48
- */
 
 class Image {
 
